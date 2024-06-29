@@ -1,0 +1,1 @@
+# newrelic-pod-log-forwarding
